@@ -64,3 +64,12 @@
 {
 	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
+
+@mixin jua-font()
+{
+	font-family: 'BM JUA','배달의민족 주아',sans-serif;
+}
+
+@mixin hanna-font() {
+  font-family: 'BM HANNA','배달의민족 한나', sans-serif;
+}
